@@ -8,4 +8,4 @@ var player_speed = 5;
 var _xinput = pressed_right - pressed_left;
 var _yinput = pressed_down - pressed_up;
 
-move_and_collide(_xinput * player_speed, _yinput * player_speed, Owall)
+move_and_collide(_xinput * player_speed, _yinput * player_speed, Obj_Wall)

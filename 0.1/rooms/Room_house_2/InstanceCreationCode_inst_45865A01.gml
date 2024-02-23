@@ -1,3 +1,3 @@
 var xPosition = 1440;
 var yPosition  = 816;
-var roomName = Room2;
+var roomName = Room_Outside;

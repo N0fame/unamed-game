@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_Serene_Village_48x48",
+  "name": "Spr_Serene_Village_48x48",
   "bbox_bottom": 2147,
   "bbox_left": 0,
   "bbox_right": 911,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_Serene_Village_48x48",
+    "name": "Spr_Serene_Village_48x48",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ba0787c8-07ab-47e2-b03e-9ff2bb197767","path":"sprites/spr_Serene_Village_48x48/spr_Serene_Village_48x48.yy",},},},"Disabled":false,"id":"18203d88-9384-486d-9a49-6403e23361ef","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ba0787c8-07ab-47e2-b03e-9ff2bb197767","path":"sprites/Spr_Serene_Village_48x48/Spr_Serene_Village_48x48.yy",},},},"Disabled":false,"id":"18203d88-9384-486d-9a49-6403e23361ef","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

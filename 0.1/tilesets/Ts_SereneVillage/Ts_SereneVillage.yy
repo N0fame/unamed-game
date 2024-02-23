@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TsSereneVillage",
+  "name": "Ts_SereneVillage",
   "autoTileSets": [
     {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"autotile_1","closed_edge":false,"tiles":[
         48,
@@ -35,8 +35,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_Serene_Village_48x48",
-    "path": "sprites/spr_Serene_Village_48x48/spr_Serene_Village_48x48.yy",
+    "name": "Spr_Serene_Village_48x48",
+    "path": "sprites/Spr_Serene_Village_48x48/Spr_Serene_Village_48x48.yy",
   },
   "spriteNoExport": true,
   "textureGroupId": {
