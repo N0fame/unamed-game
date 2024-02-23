@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "Ts_SereneVillage",
   "autoTileSets": [
-    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"autotile_1","closed_edge":false,"tiles":[
+    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"At_Paths_1","closed_edge":false,"tiles":[
         48,
         66,
         63,
@@ -20,6 +20,24 @@
         24,
         22,
         42,
+      ],},
+    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"At_Water_1","closed_edge":false,"tiles":[
+        31,
+        122,
+        117,
+        118,
+        84,
+        103,
+        0,
+        40,
+        79,
+        0,
+        98,
+        39,
+        83,
+        21,
+        20,
+        100,
       ],},
   ],
   "macroPageTiles": {
